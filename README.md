@@ -5,6 +5,6 @@ nodejs + express create api
   node index.js
   
 2.From browser type api
-   http://localhost:3000/notes 
+   -http://localhost:3000/notes 
    
-   http://localhost:3000/categories
+   -http://localhost:3000/categories
